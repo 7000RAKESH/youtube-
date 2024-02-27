@@ -65,6 +65,9 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 row-gap: 40px;
 column-gap: 16px;
+scroll-snap-type: y mandatory;
+overflow-y: scroll;
+
 }
 body{
 font-family: Arial, 'Times New Roman', Times, serif;
