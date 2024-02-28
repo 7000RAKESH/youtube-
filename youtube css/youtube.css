@@ -35,6 +35,10 @@
     vertical-align: top;
 
 }
+.video-info-grid {
+  display: grid;
+  grid-template-columns: 50px 1fr;
+}
 .profile-picture{
     border-radius: 100px;
     width: 36px;
