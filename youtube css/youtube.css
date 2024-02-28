@@ -86,6 +86,7 @@ grid-template-columns: 1fr 1fr 1fr;
 row-gap: 40px;
 column-gap: 16px;
 overflow-y: scroll;
+overflow-x: scroll;
 }
 @meia (max-width: 750px) {
   .grid {
