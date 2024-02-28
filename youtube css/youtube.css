@@ -80,9 +80,9 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 row-gap: 40px;
 column-gap: 16px;
-
+overflow-y: scroll;
 }
-@media (max-width: 750px) {
+@meia (max-width: 750px) {
   .grid {
     grid-template-columns: 1fr 1fr;
   }
