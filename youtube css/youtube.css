@@ -1,4 +1,8 @@
-
+.thumbnail{
+        width: 100%;
+        margin-bottom: 10px;
+        cursor: pointer;
+}
 .search-bar{
  height: 40px;
  border-width: 1px;
