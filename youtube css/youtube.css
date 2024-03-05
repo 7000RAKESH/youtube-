@@ -88,7 +88,7 @@ column-gap: 16px;
 overflow-y: scroll;
 overflow-x: scroll;
 }
-@meia (max-width: 750px) {
+@media (max-width: 750px) {
   .grid {
     grid-template-columns: 1fr 1fr;
   }
